@@ -1,0 +1,38 @@
+                                                                                Hangman Game
+A classic Hangman game implemented in C++. This game challenges players to guess words based on hints, with varying levels of difficulty. The objective is to guess the correct word within a limited number of tries and time to avoid "hanging" the man.
+
+Features
+
+Difficulty Levels: Choose from Easy, Medium, and Hard levels, each with a different set of words and hints.
+Scoring System: Earn points for correct guesses, with a target score to win.
+Timer: Each word comes with a time limit, adding to the challenge.
+Hints: Request hints for the words to make guessing easier.
+Replay Option: Replay the game after each session.
+
+
+Gameplay
+Start the Game: Run the executable to start the game. You'll be presented with a menu to start playing, view credits, or exit.
+Select Difficulty: After choosing to play, select a difficulty level: Easy, Medium, or Hard.
+Guess the Word: You have a limited number of tries and a time limit to guess the word. Type a letter to guess or type "help" to receive a hint.
+Win or Lose: If you guess the word correctly, you'll score points and move to the next word. If you run out of tries, the game is over.
+
+Files
+hangman.cpp: The main source code for the Hangman game.
+easy_words_with_hints.txt: Contains 50 easy words with hints.
+medium_words_with_hints.txt: Contains 50 medium difficulty words with hints.
+hard_words_with_hints.txt: Contains 50 hard words with hints.
+README.md: Documentation for the project.
+
+Contributing
+Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
+
+To Contribute:
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Commit your changes (git commit -m 'Add some feature').
+Push to the branch (git push origin feature-branch).
+Open a pull request.
+
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
