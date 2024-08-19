@@ -1,0 +1,47 @@
+apple-A common fruit that keeps the doctor away.
+ball-A round object used in many sports.
+cat-A small domesticated carnivorous mammal.
+dog-Man's best friend.
+fish-An animal that lives in water.
+hat-A head covering, often worn for fashion or protection.
+ice-Frozen water, often used to cool drinks.
+jazz-A style of music that originated in the African-American communities.
+kite-A flying object tethered to the ground with a string.
+lamp-A device for giving light.
+moon-Earth's natural satellite.
+nest-A structure built by birds to hold their eggs.
+orange-A citrus fruit rich in vitamin C.
+pen-A tool used for writing or drawing with ink.
+queen-The female ruler of an independent state.
+ring-A circular band worn on the finger as a symbol or decoration.
+sun-The star at the center of our solar system.
+tree-A woody perennial plant with branches.
+umbrella-A device used for protection against rain or sun.
+vase-A container used to hold flowers or for decoration.
+water-A transparent, tasteless, odorless liquid essential for life.
+yarn-A long, continuous length of interlocked fibers used in knitting.
+zebra-An African wild horse with black-and-white stripes.
+bread-A staple food made from flour, water, and yeast.
+car-A road vehicle, typically with four wheels, powered by an internal combustion engine.
+drum-A percussion instrument sounded by being struck with sticks or hands.
+egg-A round or oval object laid by a female bird, reptile, fish, or invertebrate, containing a developing embryo.
+fork-A tool with two or more prongs used for eating or serving food.
+goat-A hardy domesticated ruminant animal that has backward-curving horns and is kept for its milk, meat, and wool.
+hill-A naturally raised area of land, not as high or craggy as a mountain.
+ink-A colored fluid used for writing, drawing, or printing.
+jug-A large container for liquids, typically having a handle and a spout or lip.
+key-A small metal instrument specially cut to fit into a lock and move its bolt.
+leaf-The flat, thin, green part of a plant that grows from a stem or branch.
+mouse-A small rodent that typically has a pointed snout, relatively large ears and eyes, and a long tail.
+nest-A structure built by birds to hold their eggs.
+owl-A nocturnal bird of prey with large eyes and a flat face.
+pig-A domesticated, omnivorous mammal with a stout body, typically having a long snout and thick skin, used for meat.
+quilt-A warm bed covering made of padding enclosed between layers of fabric and kept in place by lines of stitching.
+rock-A solid mineral material forming part of the surface of the earth and other similar planets.
+ship-A large boat used for traveling long distances over the sea.
+tent-A portable shelter made of cloth, supported by one or more poles, and stretched tight by cords.
+violin-A stringed musical instrument played with a bow.
+window-An opening in the wall or roof of a building or vehicle, fitted with glass in a frame to allow light or air and to see through.
+x-ray-A form of electromagnetic radiation, used for imaging the inside of objects.
+yo-yo-A toy consisting of a pair of joined discs with a deep groove between them in which string is attached and wound.
+zoo-A facility in which animals are housed within enclosures, displayed to the public, and often bred.
