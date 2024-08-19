@@ -1,4 +1,5 @@
                                                                                 Hangman Game
+
 A classic Hangman game implemented in C++. This game challenges players to guess words based on hints, with varying levels of difficulty. The objective is to guess the correct word within a limited number of tries and time to avoid "hanging" the man.
 
 Features
