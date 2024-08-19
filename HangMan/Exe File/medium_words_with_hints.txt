@@ -1,0 +1,46 @@
+bicycle-A vehicle with two wheels that you pedal to move.
+elephant-A large mammal with a trunk, found in Africa and Asia.
+guitar-A stringed musical instrument played by strumming or plucking.
+mountain-A large natural elevation of the earth's surface.
+notebook-A book of blank pages for writing notes.
+pyramid-A monumental structure with a square or triangular base and sloping sides that meet in a point at the top.
+rainbow-An arc of colors visible in the sky caused by refraction and dispersion of the sun's light by rain.
+sandwich-Two slices of bread with filling between them.
+telescope-An instrument used to observe distant objects by collecting and focusing light.
+volcano-A mountain with a crater that can erupt with lava, ash, and gases.
+airplane-A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces.
+backpack-A bag with shoulder straps, carried on the back, and typically made of strong, waterproof material.
+calendar-A chart or series of pages showing the days, weeks, and months of a particular year, or giving particular seasonal information.
+dolphin-A small toothed whale with a beaklike snout and a curved fin on the back.
+engine-A machine with moving parts that converts power into motion.
+firework-A device containing gunpowder and other combustible chemicals that causes a spectacular explosion when ignited.
+glacier-A slowly moving mass or river of ice formed by the accumulation and compaction of snow on mountains or near the poles.
+helicopter-A type of aircraft that derives both lift and propulsion from one or two sets of horizontally revolving rotors.
+island-A piece of land surrounded by water.
+jungle-An area of land overgrown with dense forest and tangled vegetation, typically in the tropics.
+kangaroo-A large plant-eating marsupial with a long powerful tail and strong hind limbs, native to Australia.
+lighthouse-A tower with a bright light at the top, located at an important or dangerous place regarding navigation.
+microscope-An optical instrument used for viewing very small objects, such as mineral samples or animal or plant cells.
+neutron-A subatomic particle of about the same mass as a proton but without an electric charge, present in all atomic nuclei except those of ordinary hydrogen.
+octopus-A cephalopod mollusk with eight sucker-bearing arms, a soft saclike body, strong beaklike jaws, and no internal shell.
+parachute-A device used to slow the descent of a person or object falling from the sky, consisting of a large fabric canopy connected to the person or object by cords.
+quasar-A massive and extremely remote celestial object, emitting exceptionally large amounts of energy, and typically having a star-like image in a telescope.
+rocket-A missile, spacecraft, aircraft, or other vehicle that obtains thrust from a rocket engine.
+satellite-An artificial body placed in orbit around the earth or another planet in order to collect information or for communication.
+trampoline-A strong, taut piece of fabric stretched on a frame by springs, used as a springboard and landing area in tumbling and gymnastics.
+universe-All existing matter and space considered as a whole; the cosmos.
+vortex-A mass of whirling fluid or air, especially a whirlpool or whirlwind.
+waterfall-A cascade of water falling from a height, formed when a river or stream flows over a precipice or steep incline.
+xenon-A chemical element with the symbol Xe and atomic number 54, a colorless, dense, odorless noble gas found in the Earth's atmosphere.
+yacht-A medium-sized sailboat equipped for cruising or racing.
+zeppelin-A large German dirigible airship of the early 20th century, used during World War I for reconnaissance and bombing and after the war as passenger transports until the 1930s.
+archipelago-A group of islands.
+bacteria-Microscopic living organisms, usually one-celled, that can be found everywhere.
+constellation-A group of stars forming a recognizable pattern that is traditionally named after its apparent form or identified with a mythological figure.
+doppelganger-A non-biologically related look-alike or double of a living person.
+ecosystem-A biological community of interacting organisms and their physical environment.
+fjord-A long, narrow, deep inlet of the sea between high cliffs, as in Norway and Iceland, typically formed by submergence of a glaciated valley.
+geology-The science that deals with the earth's physical structure and substance, its history, and the processes that act on it.
+hieroglyphics-A character of the ancient Egyptian writing system, which used picture symbols.
+igneous-Relating to or involving volcanic processes or rocks that have solidified from molten rock.
+jewel-A precious stone, especially when cut and polished or engraved.
