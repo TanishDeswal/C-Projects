@@ -74,30 +74,57 @@ public:
     }
 
     void select_difficulty() {
-        int difficulty;
-        cout << "\n\t\t\t\tSelect Difficulty:\n";
-        cout << "\t\t\t\t1. Easy (Score 1000)\n";
-        cout << "\t\t\t\t2. Medium (Score 3000)\n";
-        cout << "\t\t\t\t3. Hard (Score 5000)\n";
-        cout << "\t\t\t\tEnter your choice: ";
-        cin >> difficulty;
+        int Set[] = { 7, 7, 7 }; 
+        int counter = 1; 
+        char key; 
 
-        switch (difficulty) {
-        case 1:
-            score_needed = 1000;
-            break;
-        case 2:
-            score_needed = 3000;
-            break;
-        case 3:
-            score_needed = 5000;
-            break;
-        default:
-            score_needed = 1000;
-            cout << "\n\t\t\t\tInvalid choice, defaulting to Easy.\n";
-            break;
+        while (true) {
+            system("cls");
+
+            
+            gotoxy(50, 10);
+            color(Set[0]);
+            cout << "Easy (Score 1000)";
+
+            gotoxy(50, 11);
+            color(Set[1]);
+            cout << "Medium (Score 3000)";
+
+            gotoxy(50, 12);
+            color(Set[2]);
+            cout << "Hard (Score 5000)";
+
+            
+            key = _getch();
+
+            
+            if (key == 72 && (counter > 1)) {
+                counter--;
+            }
+            if (key == 80 && (counter < 3)) {
+                counter++;
+            }
+            
+            if (key == '\r') {
+                system("cls");
+                if (counter == 1) {
+                    score_needed = 1000;
+                }
+                else if (counter == 2) {
+                    score_needed = 3000;
+                }
+                else if (counter == 3) {
+                    score_needed = 5000;
+                }
+                break;
+            }
+
+            
+            Set[0] = Set[1] = Set[2] = 7;
+            Set[counter - 1] = 12;
         }
     }
+
 
     void Game_Start() {
         select_difficulty();
@@ -111,7 +138,7 @@ public:
         const int time_penalty_seconds = 10;
         string difficulty_file;
 
-        // Determine the word list file based on difficulty
+   
         if (score_needed == 1000) {
             difficulty_file = "easy_words_with_hints.txt";
         }
